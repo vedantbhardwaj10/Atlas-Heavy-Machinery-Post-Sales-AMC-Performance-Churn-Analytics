@@ -79,7 +79,7 @@ This project addresses these gaps through structured analysis and visualization.
 
 ---
 
-### Power BI (Dashboards)
+### Tableau Desktop (Dashboards)
 
 #### Sales Performance Dashboard
 - Total Revenue: ₹1,411.82 Cr
@@ -132,7 +132,7 @@ This project addresses these gaps through structured analysis and visualization.
 
 1. Open `AHM_EDA.ipynb` → Data cleaning, EDA, statistical analysis  
 2. Run `AHM_SQL_queries.sql` → Schema and analytical queries  
-3. View Power BI dashboard / report screenshots for business insights  
+3. View Tableau Desktop dashboard / report screenshots for business insights  
 
 ---
 
