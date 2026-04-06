@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="Atlas_Heavy_Machinery_logo.png" alt="Atlas Heavy Machinery" width="700"/>
+  <img src="Atlas_Heavy_Machinery_logo.png" alt="Atlas Heavy Machinery" width="900"/>
 </p>
 
 # Atlas Heavy Machinery – AMC Revenue & Churn Analytics
