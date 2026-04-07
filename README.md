@@ -20,7 +20,7 @@ The objective is to help business stakeholders understand:
 The analysis integrates:
 - **Python (EDA & statistical analysis)**
 - **MySQL (analytical queries)**
-- **Power BI (interactive dashboards)**
+- **Tableau (interactive dashboards)**
 
 ---
 
