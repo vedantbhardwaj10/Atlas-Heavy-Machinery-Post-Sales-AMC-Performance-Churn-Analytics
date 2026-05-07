@@ -4,7 +4,7 @@
 
 # Atlas Heavy Machinery – AMC Revenue & Churn Analytics
 
-An end-to-end analytics project using Python, MySQL, and Power BI to analyze AMC (Annual Maintenance Contract) performance, identify churn drivers, and improve recurring revenue visibility.
+An end-to-end analytics project using Python, MySQL, and Tableau Desktop to analyze AMC (Annual Maintenance Contract) performance, identify churn drivers, and improve recurring revenue visibility.
 
 ---
 
@@ -124,7 +124,7 @@ This project addresses these gaps through structured analysis and visualization.
 
 - **Python**: pandas, numpy, matplotlib, scipy, statsmodels
 - **SQL**: MySQL (joins, CTEs, window functions)
-- **Visualization**: Power BI
+- **Visualization**: Tableau Desktop
 
 ---
 
